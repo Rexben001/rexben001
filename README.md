@@ -1,7 +1,7 @@
 
-<img src="https://i.imgur.com/R3cpQ9R.gif" height="300" width="100%"/>
+<img src="https://data.whicdn.com/images/278713842/original.gif" height="200" width="100%"/>
 
-Hi, I'm Rexben, a Software Engineer with a demonstrated history of building software solutions.
+#### Hi, I'm Rexben, a Software Engineer with a demonstrated history of building software solutions.
 
 - 🔭 I’m currently working on Web Apps
 - 🌱 I’m currently learning Golang 
