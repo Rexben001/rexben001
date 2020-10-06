@@ -7,6 +7,4 @@ Hi, I'm Rexben, a Software Engineer with a demonstrated history of building soft
 - 🌱 I’m currently learning Golang 
 - 💬 Ask me about JavaScript, mentoring,board games, action movies
 
-![Rexben's github stats](https://github-readme-stats.vercel.app/api?username=rexben001&count_private=true&show_icons=true&theme=dracula)
-
-<a href="https://twitter.com/rexben001"><img src="https://img.shields.io/twitter/follow/rexben001?style=flat-square&logo=twitter"></a>
+![Rexben's github stats](https://github-readme-stats.vercel.app/api?username=rexben001&count_private=true&show_icons=true&theme=dracula) ![Rexben's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rexben001&theme=blue-green&layout=compact)
