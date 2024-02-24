@@ -1,7 +1,7 @@
 
-#### Hi, I'm Rexben, a Software Engineer with a demonstrated history of building software solutions. I'm a also an AWS Community Builder
+#### Hi, I'm Rexben, a Software Engineer with a demonstrated history of building software solutions. I'm also an AWS Community Builder
 
-- 🔭 I build fullstack applications using mostly Nodejs, React, Golang and VueJS
+- 🔭 I build full-stack applications using mostly Nodejs, React, Golang and VueJS
 - 🌱 I also build Serverless Applications using AWS, AWS Lambda, Amazon API Gateway, AWS Step Functions and AWS Fargate
 - 💬 Ask me about AWS, JavaScript, mentoring, board games, action movies
 - Check out my blogs on [Medium](https://rexben.medium.com)
